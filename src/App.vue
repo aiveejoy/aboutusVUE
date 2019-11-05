@@ -6,10 +6,10 @@
 </template>
 
 <script>
-import Header from '@/components/Header'
+import Header1 from '@/components/Header'
 export default {
   components: {
-    'my-header': Header
+    'my-header': Header1
   }
 }
 </script>
